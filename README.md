@@ -43,7 +43,7 @@ I'm particularly interested in building scalable analytics solutions that help b
 ### 1. Logistics & Sales Intelligence
 An end-to-end business intelligence project focused on logistics performance, operational KPIs, and interactive reporting.
 
-Status: In Development
+Status: Complete
 
 ### 2. AI-Powered Data Analyst
 A Python-based application designed to analyze uploaded datasets, generate visualizations, and answer questions using AI.
